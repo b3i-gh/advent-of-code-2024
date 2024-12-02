@@ -13,3 +13,4 @@ options:
 ## progress
 
 - **day01:** 01/12/24, part1 13', part2 27'
+- **day02:** 02/12/24, part1 20', part2 1h10'

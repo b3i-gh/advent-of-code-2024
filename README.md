@@ -17,3 +17,4 @@ options:
 - **day03:** 03/12/24, part1 18', part2 54'
 - **day04:** 04/12/24, part1 30', part2 40'
 - **day05:** 05/12/24, part1 40', part2 1h'
+- **day06:** 06/12/24, part1 1h40', part2 30'

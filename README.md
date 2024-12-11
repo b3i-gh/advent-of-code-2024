@@ -20,6 +20,4 @@ options:
 - **day06:** 06/12/24, part1 1h40', part2 30'
 - **day07:** 09/12/24, part1 1h30', part2 10'
 - **day08:** 11/12/24, part1 1h10', part2 30'
-- **day09:** 11/12/24, part1 1h15', part2 2h20'
-
-
+- **day09:** 11/12/24, part1 1h15', part2 1h05'

@@ -23,3 +23,5 @@ options:
 - **day09:** 11/12/24, part1 1h15', part2 1h05'
 - **day10:** 12/12/24, part1 1h05', part2 5'
 - **day11:** 12/12/24, part1 29', part2 30'
+- **day12:** 13/12/24, part1 2h , part2 1h
+

@@ -27,3 +27,4 @@ options:
 - **day13:** 15/12/24, \*
 - **day14:** 15/12/24, part1 45', part2 1h20'
 - **day15:** 16/12/24, part1 45', part2 \*
+- **day16:** 18/12/24, part1 1h10', part2 [explanation](https://winslowjosiah.com/blog/2024/12/16/advent-of-code-2024-day-16/)

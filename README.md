@@ -34,3 +34,4 @@ options:
 - **day20:** 26/12/24, part1 40', part2 40'
 - **day22:** 26/12/24, part1 25', part2 1h30'
 - **day23:** 29/12/24, part1 35', part2 40'
+- **day24:** 29/12/24, part1 1h30', part2 \*

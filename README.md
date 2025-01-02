@@ -32,6 +32,7 @@ options:
 - **day18:** 24/12/24, part1 35', part2 1h
 - **day19:** 25/12/24, part1 35', part2 20'
 - **day20:** 26/12/24, part1 40', part2 40'
+- **day21:** 02/01/25, part1 1h40', part2 \*
 - **day22:** 26/12/24, part1 25', part2 1h30'
 - **day23:** 29/12/24, part1 35', part2 40'
-- **day24:** 29/12/24, part1 1h30', part2 \*
+- **day24:** 01/01/25, part1 1h30', part2 \*
